@@ -118,21 +118,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f49f1db5cabfd44ec7c6@usd-high-impact
-DTSTAMP:20261011T112455Z
+DTSTAMP:20261013T124320Z
 DTSTART:20261015T123000Z
 DTEND:20261015T124500Z
 SUMMARY:USD: Core Retail Sales m/m
-DESCRIPTION:Forecast: 0.5%\nPrevious: 1.4%\nSource: Forex Factory\, https:/
+DESCRIPTION:Forecast: 0.6%\nPrevious: 1.4%\nSource: Forex Factory\, https:/
  /www.forexfactory.com/calendar
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cb8be9f75ac57a7f5982@usd-high-impact
-DTSTAMP:20261011T112455Z
+DTSTAMP:20261013T124320Z
 DTSTART:20261015T123000Z
 DTEND:20261015T124500Z
 SUMMARY:USD: PPI m/m
-DESCRIPTION:Forecast: 0.5%\nPrevious: 0.4%\nSource: Forex Factory\, https:/
+DESCRIPTION:Forecast: 0.6%\nPrevious: 0.4%\nSource: Forex Factory\, https:/
  /www.forexfactory.com/calendar
 TRANSP:TRANSPARENT
 END:VEVENT

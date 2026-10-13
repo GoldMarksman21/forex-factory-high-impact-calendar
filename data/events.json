@@ -103,18 +103,18 @@
     "country": "USD",
     "title": "Core Retail Sales m/m",
     "start": "2026-10-15T12:30:00+00:00",
-    "forecast": "0.5%",
+    "forecast": "0.6%",
     "previous": "1.4%",
-    "stamp": "20261011T112455Z"
+    "stamp": "20261013T124320Z"
   },
   "cb8be9f75ac57a7f5982@usd-high-impact": {
     "uid": "cb8be9f75ac57a7f5982@usd-high-impact",
     "country": "USD",
     "title": "PPI m/m",
     "start": "2026-10-15T12:30:00+00:00",
-    "forecast": "0.5%",
+    "forecast": "0.6%",
     "previous": "0.4%",
-    "stamp": "20261011T112455Z"
+    "stamp": "20261013T124320Z"
   },
   "1706bca4135fcaeba18f@usd-high-impact": {
     "uid": "1706bca4135fcaeba18f@usd-high-impact",
