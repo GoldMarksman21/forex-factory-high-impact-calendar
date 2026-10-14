@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//usd-high-impact-calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:USD High Impact
+X-WR-CALNAME:Gold Marksman | USD Economic News
 X-WR-CALDESC:High-impact USD economic events from the Forex Factory feed
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -137,12 +137,32 @@ DESCRIPTION:Forecast: 0.6%\nPrevious: 0.4%\nSource: Forex Factory\, https:/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:0c2ff0497bbb3a5cd664@usd-high-impact
+DTSTAMP:20261014T214856Z
+DTSTART:20261015T123000Z
+DTEND:20261015T124500Z
+SUMMARY:USD: Philly Fed Manufacturing Index
+DESCRIPTION:Forecast: 28.2\nPrevious: 37.8\nSource: Forex Factory\, https:/
+ /www.forexfactory.com/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:1706bca4135fcaeba18f@usd-high-impact
 DTSTAMP:20261011T112455Z
 DTSTART:20261015T123000Z
 DTEND:20261015T124500Z
 SUMMARY:USD: Retail Sales m/m
 DESCRIPTION:Forecast: 0.3%\nPrevious: 1.2%\nSource: Forex Factory\, https:/
+ /www.forexfactory.com/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fe9cf926ae226b1e483c@usd-high-impact
+DTSTAMP:20261014T214856Z
+DTSTART:20261015T123000Z
+DTEND:20261015T124500Z
+SUMMARY:USD: Unemployment Claims
+DESCRIPTION:Forecast: 199K\nPrevious: 197K\nSource: Forex Factory\, https:/
  /www.forexfactory.com/calendar
 TRANSP:TRANSPARENT
 END:VEVENT

@@ -116,6 +116,15 @@
     "previous": "0.4%",
     "stamp": "20261013T124320Z"
   },
+  "0c2ff0497bbb3a5cd664@usd-high-impact": {
+    "uid": "0c2ff0497bbb3a5cd664@usd-high-impact",
+    "country": "USD",
+    "title": "Philly Fed Manufacturing Index",
+    "start": "2026-10-15T12:30:00+00:00",
+    "forecast": "28.2",
+    "previous": "37.8",
+    "stamp": "20261014T214856Z"
+  },
   "1706bca4135fcaeba18f@usd-high-impact": {
     "uid": "1706bca4135fcaeba18f@usd-high-impact",
     "country": "USD",
@@ -124,6 +133,15 @@
     "forecast": "0.3%",
     "previous": "1.2%",
     "stamp": "20261011T112455Z"
+  },
+  "fe9cf926ae226b1e483c@usd-high-impact": {
+    "uid": "fe9cf926ae226b1e483c@usd-high-impact",
+    "country": "USD",
+    "title": "Unemployment Claims",
+    "start": "2026-10-15T12:30:00+00:00",
+    "forecast": "199K",
+    "previous": "197K",
+    "stamp": "20261014T214856Z"
   },
   "a87f0a3efca86e855da5@usd-high-impact": {
     "uid": "a87f0a3efca86e855da5@usd-high-impact",
