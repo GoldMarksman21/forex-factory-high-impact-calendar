@@ -10,10 +10,10 @@ from pathlib import Path
 # --- Settings you may want to change ---------------------------------------
 FEED_URL = "https://nfs.faireconomy.media/ff_calendar_thisweek.json"
 COUNTRIES = {"USD"}  # e.g. {"USD", "EUR"}
-IMPACTS = {"High"}  # feed values: "High", "Medium", "Low", "Holiday"
+IMPACTS = {"High", "Medium"}  # feed values: "High", "Medium", "Low", "Holiday"
 KEEP_DAYS = 45  # how long past events stay in the calendar
 EVENT_MINUTES = 15  # length of each calendar entry
-CALENDAR_NAME = "USD High Impact"
+CALENDAR_NAME = "Gold Marksman | USD Economic News"
 CALENDAR_DESCRIPTION = "High-impact USD economic events from the Forex Factory feed"
 USER_AGENT = "usd-high-impact-calendar/1.0"
 # ---------------------------------------------------------------------------
