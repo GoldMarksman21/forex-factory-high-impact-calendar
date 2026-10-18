@@ -175,4 +175,54 @@ SUMMARY:USD: Fed Chairman Warsh Speaks
 DESCRIPTION:Source: Forex Factory\, https://www.forexfactory.com/calendar
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:392935a3e07b9d93e7ac@usd-high-impact
+DTSTAMP:20261018T053849Z
+DTSTART:20261022T123000Z
+DTEND:20261022T124500Z
+SUMMARY:USD: Unemployment Claims
+DESCRIPTION:Forecast: 200K\nPrevious: 199K\nSource: Forex Factory\, https:/
+ /www.forexfactory.com/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bf8acb5389a17408880f@usd-high-impact
+DTSTAMP:20261018T053849Z
+DTSTART:20261023T134500Z
+DTEND:20261023T140000Z
+SUMMARY:USD: Flash Manufacturing PMI
+DESCRIPTION:Forecast: 55.5\nPrevious: 57.0\nSource: Forex Factory\, https:/
+ /www.forexfactory.com/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:67d25308c6380638cc74@usd-high-impact
+DTSTAMP:20261018T053849Z
+DTSTART:20261023T134500Z
+DTEND:20261023T140000Z
+SUMMARY:USD: Flash Services PMI
+DESCRIPTION:Forecast: 58.0\nPrevious: 58.7\nSource: Forex Factory\, https:/
+ /www.forexfactory.com/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ab798a201693e5bf5b28@usd-high-impact
+DTSTAMP:20261018T053849Z
+DTSTART:20261023T140000Z
+DTEND:20261023T141500Z
+SUMMARY:USD: Revised UoM Consumer Sentiment
+DESCRIPTION:Forecast: 46.3\nPrevious: 46.3\nSource: Forex Factory\, https:/
+ /www.forexfactory.com/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:746b7e53a40515876908@usd-high-impact
+DTSTAMP:20261018T053849Z
+DTSTART:20261023T140000Z
+DTEND:20261023T141500Z
+SUMMARY:USD: Revised UoM Inflation Expectations
+DESCRIPTION:Previous: 4.7%\nSource: Forex Factory\, https://www.forexfactor
+ y.com/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

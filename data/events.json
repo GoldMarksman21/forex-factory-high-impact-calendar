@@ -151,5 +151,50 @@
     "forecast": "",
     "previous": "",
     "stamp": "20261011T112455Z"
+  },
+  "392935a3e07b9d93e7ac@usd-high-impact": {
+    "uid": "392935a3e07b9d93e7ac@usd-high-impact",
+    "country": "USD",
+    "title": "Unemployment Claims",
+    "start": "2026-10-22T12:30:00+00:00",
+    "forecast": "200K",
+    "previous": "199K",
+    "stamp": "20261018T053849Z"
+  },
+  "bf8acb5389a17408880f@usd-high-impact": {
+    "uid": "bf8acb5389a17408880f@usd-high-impact",
+    "country": "USD",
+    "title": "Flash Manufacturing PMI",
+    "start": "2026-10-23T13:45:00+00:00",
+    "forecast": "55.5",
+    "previous": "57.0",
+    "stamp": "20261018T053849Z"
+  },
+  "67d25308c6380638cc74@usd-high-impact": {
+    "uid": "67d25308c6380638cc74@usd-high-impact",
+    "country": "USD",
+    "title": "Flash Services PMI",
+    "start": "2026-10-23T13:45:00+00:00",
+    "forecast": "58.0",
+    "previous": "58.7",
+    "stamp": "20261018T053849Z"
+  },
+  "ab798a201693e5bf5b28@usd-high-impact": {
+    "uid": "ab798a201693e5bf5b28@usd-high-impact",
+    "country": "USD",
+    "title": "Revised UoM Consumer Sentiment",
+    "start": "2026-10-23T14:00:00+00:00",
+    "forecast": "46.3",
+    "previous": "46.3",
+    "stamp": "20261018T053849Z"
+  },
+  "746b7e53a40515876908@usd-high-impact": {
+    "uid": "746b7e53a40515876908@usd-high-impact",
+    "country": "USD",
+    "title": "Revised UoM Inflation Expectations",
+    "start": "2026-10-23T14:00:00+00:00",
+    "forecast": "",
+    "previous": "4.7%",
+    "stamp": "20261018T053849Z"
   }
 }
