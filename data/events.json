@@ -202,9 +202,9 @@
     "country": "USD",
     "title": "CB Consumer Confidence",
     "start": "2026-10-27T14:00:00+00:00",
-    "forecast": "80.5",
+    "forecast": "81.2",
     "previous": "81.9",
-    "stamp": "20261025T053932Z"
+    "stamp": "20261027T054201Z"
   },
   "13fe7deab254b70f351f@usd-high-impact": {
     "uid": "13fe7deab254b70f351f@usd-high-impact",
@@ -238,9 +238,9 @@
     "country": "USD",
     "title": "Advance GDP Price Index q/q",
     "start": "2026-10-29T12:30:00+00:00",
-    "forecast": "3.5%",
+    "forecast": "3.3%",
     "previous": "6.2%",
-    "stamp": "20261025T053932Z"
+    "stamp": "20261027T054201Z"
   },
   "e0bf3b287fc7cca7995d@usd-high-impact": {
     "uid": "e0bf3b287fc7cca7995d@usd-high-impact",
