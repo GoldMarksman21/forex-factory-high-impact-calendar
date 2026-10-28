@@ -265,11 +265,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:35a4a0efc8dda695b65e@usd-high-impact
-DTSTAMP:20261027T054201Z
+DTSTAMP:20261028T055106Z
 DTSTART:20261029T123000Z
 DTEND:20261029T124500Z
 SUMMARY:USD: Advance GDP Price Index q/q
-DESCRIPTION:Forecast: 3.3%\nPrevious: 6.2%\nSource: Forex Factory\, https:/
+DESCRIPTION:Forecast: 3.2%\nPrevious: 6.2%\nSource: Forex Factory\, https:/
  /www.forexfactory.com/calendar
 TRANSP:TRANSPARENT
 END:VEVENT
