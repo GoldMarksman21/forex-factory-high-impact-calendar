@@ -292,9 +292,9 @@
     "country": "USD",
     "title": "JOLTS Job Openings",
     "start": "2026-11-03T15:00:00+00:00",
-    "forecast": "7.11M",
+    "forecast": "7.15M",
     "previous": "7.08M",
-    "stamp": "20261101T055149Z"
+    "stamp": "20261103T055950Z"
   },
   "777aa50ad3e8588d6f8d@usd-high-impact": {
     "uid": "777aa50ad3e8588d6f8d@usd-high-impact",
@@ -310,9 +310,9 @@
     "country": "USD",
     "title": "ISM Services PMI",
     "start": "2026-11-04T15:00:00+00:00",
-    "forecast": "54.9",
+    "forecast": "54.8",
     "previous": "54.9",
-    "stamp": "20261101T055149Z"
+    "stamp": "20261103T055950Z"
   },
   "b07e1a9282f697f77831@usd-high-impact": {
     "uid": "b07e1a9282f697f77831@usd-high-impact",
@@ -337,9 +337,9 @@
     "country": "USD",
     "title": "Non-Farm Employment Change",
     "start": "2026-11-06T13:30:00+00:00",
-    "forecast": "63K",
+    "forecast": "65K",
     "previous": "29K",
-    "stamp": "20261101T055149Z"
+    "stamp": "20261103T055950Z"
   },
   "e41d082d5c5a11ea5349@usd-high-impact": {
     "uid": "e41d082d5c5a11ea5349@usd-high-impact",
@@ -355,9 +355,9 @@
     "country": "USD",
     "title": "Prelim UoM Consumer Sentiment",
     "start": "2026-11-06T15:00:00+00:00",
-    "forecast": "47.8",
+    "forecast": "48.1",
     "previous": "46.3",
-    "stamp": "20261101T055149Z"
+    "stamp": "20261103T055950Z"
   },
   "8888b5fb61e8db32e2c6@usd-high-impact": {
     "uid": "8888b5fb61e8db32e2c6@usd-high-impact",
