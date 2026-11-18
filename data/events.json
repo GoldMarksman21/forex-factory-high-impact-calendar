@@ -418,27 +418,27 @@
     "country": "USD",
     "title": "Philly Fed Manufacturing Index",
     "start": "2026-11-19T13:30:00+00:00",
-    "forecast": "19.2",
+    "forecast": "20.6",
     "previous": "20.9",
-    "stamp": "20261115T124404Z"
+    "stamp": "20261118T135629Z"
   },
   "6063a7480940952e634d@usd-high-impact": {
     "uid": "6063a7480940952e634d@usd-high-impact",
     "country": "USD",
     "title": "Unemployment Claims",
     "start": "2026-11-19T13:30:00+00:00",
-    "forecast": "199K",
+    "forecast": "198K",
     "previous": "200K",
-    "stamp": "20261115T124404Z"
+    "stamp": "20261118T135629Z"
   },
   "23c01cbc7adc659cfa50@usd-high-impact": {
     "uid": "23c01cbc7adc659cfa50@usd-high-impact",
     "country": "USD",
     "title": "Revised UoM Consumer Sentiment",
     "start": "2026-11-20T15:00:00+00:00",
-    "forecast": "52.1",
+    "forecast": "51.7",
     "previous": "51.0",
-    "stamp": "20261115T124404Z"
+    "stamp": "20261118T135629Z"
   },
   "2e64b12f6b94077e2439@usd-high-impact": {
     "uid": "2e64b12f6b94077e2439@usd-high-impact",
