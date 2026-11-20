@@ -499,4 +499,13 @@ DESCRIPTION:Previous: 4.3%\nSource: Forex Factory\, https://www.forexfactor
  y.com/calendar
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:29c3aeb43bb020838aa6@usd-high-impact
+DTSTAMP:20261120T135935Z
+DTSTART:20261120T170000Z
+DTEND:20261120T171500Z
+SUMMARY:USD: President Trump Speaks
+DESCRIPTION:Source: Forex Factory\, https://www.forexfactory.com/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

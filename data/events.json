@@ -448,5 +448,14 @@
     "forecast": "",
     "previous": "4.3%",
     "stamp": "20261115T124404Z"
+  },
+  "29c3aeb43bb020838aa6@usd-high-impact": {
+    "uid": "29c3aeb43bb020838aa6@usd-high-impact",
+    "country": "USD",
+    "title": "President Trump Speaks",
+    "start": "2026-11-20T17:00:00+00:00",
+    "forecast": "",
+    "previous": "",
+    "stamp": "20261120T135935Z"
   }
 }
