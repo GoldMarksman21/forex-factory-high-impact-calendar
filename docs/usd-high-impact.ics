@@ -521,11 +521,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:597de2ff99832087b9e8@usd-high-impact
-DTSTAMP:20261122T131956Z
+DTSTAMP:20261124T155149Z
 DTSTART:20261124T150000Z
 DTEND:20261124T151500Z
 SUMMARY:USD: CB Consumer Confidence
-DESCRIPTION:Forecast: 92.1\nPrevious: 91.7\nSource: Forex Factory\, https:/
+DESCRIPTION:Forecast: 92.4\nPrevious: 91.7\nSource: Forex Factory\, https:/
  /www.forexfactory.com/calendar
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -556,16 +556,6 @@ DTSTART:20261125T133000Z
 DTEND:20261125T134500Z
 SUMMARY:USD: Prelim GDP q/q
 DESCRIPTION:Forecast: 3.5%\nPrevious: 3.4%\nSource: Forex Factory\, https:/
- /www.forexfactory.com/calendar
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:db3dcb5e0130cfde1091@usd-high-impact
-DTSTAMP:20261122T131956Z
-DTSTART:20261125T133000Z
-DTEND:20261125T134500Z
-SUMMARY:USD: Unemployment Claims
-DESCRIPTION:Forecast: 201K\nPrevious: 203K\nSource: Forex Factory\, https:/
  /www.forexfactory.com/calendar
 TRANSP:TRANSPARENT
 END:VEVENT

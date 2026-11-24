@@ -472,9 +472,9 @@
     "country": "USD",
     "title": "CB Consumer Confidence",
     "start": "2026-11-24T15:00:00+00:00",
-    "forecast": "92.1",
+    "forecast": "92.4",
     "previous": "91.7",
-    "stamp": "20261122T131956Z"
+    "stamp": "20261124T155149Z"
   },
   "d28bee3cc7734880f7f9@usd-high-impact": {
     "uid": "d28bee3cc7734880f7f9@usd-high-impact",
@@ -501,15 +501,6 @@
     "start": "2026-11-25T13:30:00+00:00",
     "forecast": "3.5%",
     "previous": "3.4%",
-    "stamp": "20261122T131956Z"
-  },
-  "db3dcb5e0130cfde1091@usd-high-impact": {
-    "uid": "db3dcb5e0130cfde1091@usd-high-impact",
-    "country": "USD",
-    "title": "Unemployment Claims",
-    "start": "2026-11-25T13:30:00+00:00",
-    "forecast": "201K",
-    "previous": "203K",
     "stamp": "20261122T131956Z"
   }
 }
